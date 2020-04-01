@@ -1,0 +1,50 @@
+creator: dennyrwa
+lang: id
+locale: id_ID
+themecolor: ffffff
+company: riftatrans.com
+url: https://riftatrans.com
+siteurl: https://riftatrans.com
+icon: /favicon.ico
+logo: /images/logo-riftatrans.webp
+alt-logo: Logo of riftatrans.com
+twitter:
+facebook: https://web.facebook.com/chandradharma49
+instagram: https://www.instagram.com/rifta_trans/
+youtube: https://www.youtube.com/channel/UCCvCqu9VkLuKe8qMCgPQ-qA
+copyright: © Copyright <strong>riftatrans.com</strong>. <br>All Rights Reserved and All the trademarks are the property of their respective owners
+whatsapp-float-desktop: https://web.whatsapp.com/send?phone=6282257523695&text=Hallo, CS riftatrans.com
+whatsapp-float-phone: whatsapp://send?text=Hallo, CS riftatrans.com!&phone=+6282257523695
+exclude: [README.md]
+email: cs@riftatrans.com
+streetAddress: Jl. Gunung Anyar Emas XII No.2, Kelurahan Gunung Anyar Tambak, Kecamatan Gunung Anyar
+postOfficeBoxNumber: 
+addressLocality: Kota Surabaya
+addressRegion: Jawa Timur
+postalCode: 60294
+addressCountry: Indonesia
+telephone: 6282257523695
+telephone-detail: 0822-5752-3695
+telephone2: 082132271887
+telephone-detail2: 0821-3227-1887
+whatsapp-api: https://api.whatsapp.com/send?text=Hallo%20CS%20riftatrans.com%20(Nama)%20(Alamat)%20&phone=6282257523695
+fb_app_id: 648118235958493
+DMCA: 
+place_id : ChIJXz-dUa_61y0RFtkuaXHDVns
+id_pelacakan_ga: 
+google-my-bussiness:
+permalink: pretty
+collections:
+  data-slider-desktop:
+    output: true
+  data-slider-mobile:
+    output: true
+  data-product:
+    output: true
+    permalink: /harga/:name/
+  data-client:
+    output: true
+    permalink: /testimoni/:name/
+  data-stok-lama:
+    output: true
+    permalink: /:name/
