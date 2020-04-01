@@ -22,14 +22,5 @@ layout:
         <category>{{ post.kolom }}</category>
       </item>
     {% endfor %}
-    {% for item in site.data-artikel %}
-      <item>
-        <title>{{ item.title | xml_escape }}</title>
-        <description>{{ item.content | xml_escape }}</description>
-        <pubDate>{{ item.modified-date | date_to_rfc822 }}</pubDate>
-        <link>{{ item.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ item.url | prepend: site.baseurl | prepend: site.url }}</guid>
-      </item>
-    {% endfor %}
   </channel>
 </rss>
